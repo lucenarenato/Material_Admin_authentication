@@ -1,7 +1,19 @@
 # Renato Lucena
-## 05/12/2018
+- Contact Office: +55 62 984306136
+## 05/12/2018 - GO-BRASIL
 
-### Laravel Material Admin is a Complete Build of Laravel 5.4 and Google Material Design Lite 1.3 with FULL Email and Social Authentication
+- VERIFICANDO A VERSÃO INSTALADA DO LARAVEL
+- Já no SSH, acesse a pasta do seu projeto Laravel.
+- Dentro da pasta, execute o seguinte comando:
+```
+ $ php artisan --version
+
+```
+
+### Laravel Framework 5.5.44
+
+
+### Laravel Material Admin is a Complete Build of Laravel 5.5 and Google Material Design Lite 1.3 with FULL Email and Social Authentication
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
